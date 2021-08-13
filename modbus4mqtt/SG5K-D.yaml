@@ -1,4 +1,4 @@
-ip: 192.168.1.xxx #your inverter ip address
+ip: 192.168.20.85 #your inverter ip address
 port: 502
 update_rate: 60
 address_offset: 0
