@@ -1,9 +1,9 @@
 ip: 192.168.20.85 #your inverter ip address
 port: 502
-update_rate: 60
+update_rate: 5
 address_offset: 0
 variant: sungrow
-scan_batching: 1
+scan_batching: 100
 registers:
   - pub_topic: "output_power" #total output power kWh
     address: 5000
